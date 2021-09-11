@@ -4,7 +4,7 @@
 
 Affiliation
 
-![img](misc/fig2.pdf)
+![img](misc/fig2.png)
 
 [Acknowledgment]
 Great thanks for remarking trajectory prediction work by [Liang et al](https://github.com/uber-research/LaneGCN). Our work is generally applicable wrapping framework but this repository is about predicting the future trajectory of the surrounding vehicles in the field of autonomous driving using LaneGCN as basis network
